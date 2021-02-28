@@ -1,2 +1,2 @@
 # CDN
-jsDelivr CDN
+Blog static resources,jsDelivr CDN.
